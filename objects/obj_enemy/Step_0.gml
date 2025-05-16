@@ -1,0 +1,2 @@
+x = x + lengthdir_x(1.5, point_direction(x,y, obj_player.x,obj_player.y));
+y = y + lengthdir_y(1.5, point_direction(x,y,obj_player.x,obj_player.y));
